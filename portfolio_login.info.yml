@@ -1,0 +1,6 @@
+name: Portfolio Login
+description: Portfolio module to alter login path and prevent no authorized access.
+type: module
+core: 8.x
+package: Portfolio
+project: 'Portfolio'

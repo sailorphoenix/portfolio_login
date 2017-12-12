@@ -1,0 +1,4 @@
+portfolio_user:
+  login: '/user/login_custom'
+  page: '/user/page_custom'
+  pass: '/user/reset_custom'
